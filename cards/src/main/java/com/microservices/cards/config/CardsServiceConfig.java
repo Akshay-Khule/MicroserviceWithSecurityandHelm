@@ -14,8 +14,8 @@ import lombok.Setter;
 import lombok.ToString;
 
 /**
- * @author Eazy Bytes
- *
+ * @author Akshay
+ * 
  */
 @Configuration
 @ConfigurationProperties(prefix = "cards")
