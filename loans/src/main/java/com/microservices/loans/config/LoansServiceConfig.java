@@ -13,10 +13,7 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
-/**
- * @author Eazy Bytes
- *
- */
+
 @Configuration
 @ConfigurationProperties(prefix = "loans")
 @Getter @Setter @ToString
